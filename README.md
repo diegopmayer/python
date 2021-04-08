@@ -1,7 +1,7 @@
 # Python Learning 
 
 ## Objective
-  - Learning and reviewing the python fundamentals every year, month, and weekly.
+  - Learning and reviewing the python fundamentals every day along the years like a data scientist
   - Never lost the knowledge
   - Don't Over learning your improvement
 
@@ -25,3 +25,9 @@
       - Flask
       - Django
       - Streamlit
+
+## Routines
+  - Every when you can or you have a time
+    - folowing the video course guide
+    - folowing the google guide developer
+    - folowing a book hand's on
