@@ -1,9 +1,9 @@
 # Python Learning 
 
 ## Objective
-  - Learning and reviewing the python fundamentals every day along the years like a data scientist
-  - Never lost the knowledge
-  - Don't Over learning your improvement
+  - Improving python solutions for 18 month.
+  - Never forget the knowledge.
+  - Everyday I will make contact with language and others technology related.
 
 ## Delivery
   - Simples programs solution
@@ -15,7 +15,11 @@
 ## Technology
   - Languages
     - Python
+    - SQL
+    - Spark
   - Libraries
+    - Data Collecting
+      - Pandas, BeautifulSoup, Selenium
     - Data manipulation and calculation
       - Pandas, Numpy
     - Data Vizualization
@@ -25,9 +29,20 @@
       - Flask
       - Django
       - Streamlit
+    - Visualization
+      - Google Data Studio
+      - Plottly
+    - Deployment and Data Storage
+      - Heroku
+      - PythonAnyWhere
+      - Bigquery
+      - Postgre
 
 ## Routines
-  - Every when you can or you have a time
-    - folowing the video course guide
-    - folowing the google guide developer
-    - folowing a book hand's on
+  - One hour per day.
+  - Daily video course hand's on.
+  - Article and Documentation.
+
+## Timeline
+  - Started:   2021/06
+  - Due ended: 2022/12
