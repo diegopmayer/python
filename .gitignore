@@ -141,6 +141,7 @@ env.bak/
 venv.bak/
 pythonenv*
 venv_*
+venv_pr001_python_zero_ds
 
 # Spyder project settings
 .spyderproject
